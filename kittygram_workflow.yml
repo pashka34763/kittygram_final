@@ -101,4 +101,3 @@ jobs:
           message: |
             Kittygram: workflow успешно выполнен!
             Автор: ${{ github.actor }}
-            Коммит: ${{ github.event.head_commit.message }}
